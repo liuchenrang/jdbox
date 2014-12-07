@@ -1,0 +1,82 @@
+{
+  
+        "order_search_response": {
+            "order_search": {
+                "order_total": "1",
+                "order_info_list": [
+                    {
+                        "order_info": {
+                            "delivery_type": "",
+                            "order_end_time": "",
+                            "logistics_id": "",
+                            "order_state_remark": "",
+                            "order_state": "WAIT_SELLER_STOCK_OUT",
+                            "order_payment": "",
+                            "order_remark": "",
+                            "order_id": "123123123123",
+                            "consignee_info": {
+                                "county": "刘臣让",
+                                "province": "",
+                                "full_address": "",
+                                "telephone": "",
+                                "fullname": "",
+                                "city": "",
+                                "mobile": ""
+                            },
+                            "pay_type": "",
+                            "item_info_list": [
+                                {
+                                    "item_info": {
+                                        "jd_price": "1",
+                                        "ware_id": "",
+                                        "sku_name": "鲜花速递 生日鲜花快递 ",
+                                        "gift_point": "1",
+                                        "product_no": "",
+                                        "outer_sku_id": "",
+                                        "sku_id": "1000054804",
+                                        "item_total": "3"
+                                    }
+                                }
+                            ],
+                            "order_source": "",
+                            "balance_used": "",
+                            "order_total_price": "",
+                            "payment_confirm_time": "",
+                            "coupon_detail_list": [
+                                {
+                                    "coupon_detail": {
+                                        "coupon_type": "",
+                                        "sku_id": "",
+                                        "coupon_price": "",
+                                        "order_id": ""
+                                    }
+                                }
+                            ],
+                            "invoice_info": "",
+                            "waybill": "",
+                            "parent_order_id": "",
+                            "freight_price": "",
+                            "modified": "",
+                            "order_start_time": "",
+                            "pin": "星火",
+                            "return_order": "",
+                            "seller_discount": "",
+                            "order_seller_price": "",
+                            "vender_id": "1223",
+                            "vender_remark": "",
+                            "order_type": "",
+                            "vat_invoice_info": {
+                                "registered_phone": "",
+                                "deposit_bank": "",
+                                "bank_account": "",
+                                "registered_address": "",
+                                "taxpayer_ident": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "code": ""
+        }
+    
+}
