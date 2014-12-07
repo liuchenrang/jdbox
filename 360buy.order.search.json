@@ -40,7 +40,7 @@
                             ],
                             "order_source": "",
                             "balance_used": "",
-                            "order_total_price": "",
+                            "order_total_price": "100",
                             "payment_confirm_time": "",
                             "coupon_detail_list": [
                                 {
